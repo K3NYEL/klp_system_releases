@@ -51,6 +51,6 @@ Las versiones publicadas pueden recibir cambios, correcciones y nuevas funcional
 
 ## Licencia
 
-**MIT License**
+**EULA License**
 
 Copyright © 2026 **Kenyel**
